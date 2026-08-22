@@ -20,7 +20,7 @@ print(serials)
 #6
 temperatures = [72.5, 65.2, 80.1, 68.4]
 temperatures.sort(reverse=True)
-print(temperatures)
+print(temperatures) 
 #7
 results = ["PASS", "FAIL", "PASS", "FAIL", "FAIL"]
 for i in results:
