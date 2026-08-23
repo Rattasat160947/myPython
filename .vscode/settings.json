@@ -1,3 +1,5 @@
 {
   "editor.inlineSuggest.enabled": false,
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv-1\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true
 }
