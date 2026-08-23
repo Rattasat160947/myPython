@@ -1,0 +1,4 @@
+serial,machine,temperature,result
+A001,M01,68.5,PASS
+A002,M02,79.2,FAIL
+A003,M01,74.1,FAIL
