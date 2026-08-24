@@ -1,0 +1,4 @@
+machine,total_count,fail_count,failure_rate_percent
+M01,3,1,33.33
+M02,2,1,50.0
+M03,1,0,0.0
